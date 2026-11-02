@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">NEAR AI Inference SDK</title>
+  <desc id="description">Private inference. Verifiable responses. Available for TypeScript, Python, Rust, and Go. An abstract layered enclosure illustrates privacy and verification.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101b18"/>
+      <stop offset="1" stop-color="#0b1210"/>
+    </linearGradient>
+    <linearGradient id="enclosure" x1="874" y1="74" x2="1100" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9aefd0" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#9aefd0" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#background)" stroke="#293a33"/>
+  <path d="M64 268H744" stroke="#2b3e35"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="76" fill="#9aefd0" font-size="23" font-weight="650" letter-spacing="3">NEAR AI</text>
+    <text x="60" y="166" fill="#f3f8f5" font-size="72" font-weight="650" letter-spacing="-2.7">Inference SDK</text>
+    <text x="64" y="216" fill="#b2c7bc" font-size="27" font-weight="400" letter-spacing="-0.3">Private inference. Verifiable responses.</text>
+
+    <g fill="#d4e2da" font-size="20" font-weight="500">
+      <text x="64" y="311">TypeScript</text>
+      <text x="218" y="311">Python</text>
+      <text x="337" y="311">Rust</text>
+      <text x="433" y="311">Go</text>
+    </g>
+  </g>
+
+  <g fill="#557367">
+    <circle cx="190" cy="304" r="2"/>
+    <circle cx="309" cy="304" r="2"/>
+    <circle cx="405" cy="304" r="2"/>
+  </g>
+
+  <g fill="none" stroke-linejoin="round">
+    <path d="M806 108H852M806 180H848M806 252H852M1118 108H1150M1122 180H1150M1118 252H1150" stroke="#2b493b"/>
+    <path d="M984 35V61M984 299V325" stroke="#2b493b"/>
+    <rect x="876" y="72" width="216" height="216" rx="34" transform="rotate(12 984 180)" fill="url(#enclosure)" stroke="#365c49"/>
+    <rect x="876" y="72" width="216" height="216" rx="34" transform="rotate(-12 984 180)" fill="url(#enclosure)" stroke="#557b64"/>
+    <rect x="899" y="95" width="170" height="170" rx="24" fill="#111e18" stroke="#9aefd0" stroke-width="1.5"/>
+    <path d="M922 120H939M922 120V137M1046 120H1029M1046 120V137M922 240H939M922 240V223M1046 240H1029M1046 240V223" stroke="#527761"/>
+    <path d="M984 139L1025 162V207L984 230L943 207V162Z" fill="#9aefd0" fill-opacity="0.04" stroke="#9aefd0" stroke-width="1.5"/>
+    <path d="M943 162L984 185L1025 162M984 185V230" stroke="#9aefd0" stroke-width="1.5"/>
+    <path d="M964 150L1005 173V218" stroke="#9aefd0" stroke-opacity="0.35"/>
+    <path d="M1004 150L963 173V218" stroke="#9aefd0" stroke-opacity="0.35"/>
+  </g>
+  <g fill="#9aefd0">
+    <circle cx="806" cy="108" r="2.5"/>
+    <circle cx="806" cy="252" r="2.5"/>
+    <circle cx="1150" cy="180" r="2.5"/>
+  </g>
+</svg>
