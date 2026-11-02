@@ -1,24 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
   <title id="title">NEAR AI Inference SDK</title>
-  <desc id="description">The official NEAR AI wordmark with Inference SDK. Private inference. Verifiable responses. An abstract layered enclosure illustrates privacy and verification.</desc>
+  <desc id="description">The official NEAR AI wordmark above Inference SDK. Private inference. Verifiable responses.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101b18"/>
-      <stop offset="1" stop-color="#0b1210"/>
-    </linearGradient>
-    <linearGradient id="enclosure" x1="874" y1="74" x2="1100" y2="288" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#9aefd0" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#9aefd0" stop-opacity="0.02"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101010"/>
+      <stop offset="1" stop-color="#0b1720"/>
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#background)" stroke="#293a33"/>
-  <path d="M64 268H744" stroke="#2b3e35"/>
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#background)" stroke="#272727"/>
 
   <!-- Official wordmark: https://near.ai/branding/logos/primary/primary-white-color.svg
        Original path geometry and colors preserved; uniform scaling only.
        Brand guidelines: https://near.ai/brand -->
-  <g id="near-ai-wordmark" transform="translate(64 47) scale(0.2465753424657534)" fill="none">
+  <g transform="translate(470 52) scale(0.3561643835616438)" fill="none">
     <path d="M74.3943 0.533711C59.8836 0.533711 49.3315 3.95853 40.3658 11.8567L24.5351 25.5477C23.215 26.6046 20.5749 27.3939 18.7322 25.8086C16.8844 24.2299 16.6214 22.1245 18.2028 20.0175L26.6458 7.37669C27.9642 5.53049 26.9122 3.16253 24.5351 3.16253H4.22152C1.84943 3.16253 0 5.00874 0 7.37669V130.624C0 132.992 1.84943 134.838 4.22152 134.838H25.3258C27.6979 134.838 29.5456 132.992 29.5456 130.624V61.102C29.5456 29.2384 56.1915 24.2366 66.2142 24.2366C87.5798 24.2366 95.2322 39.5112 95.2322 51.0951V130.624C95.2322 132.992 97.0799 134.838 99.452 134.838H120.556C122.928 134.838 124.778 132.992 124.778 130.624V48.4613C124.778 18.9656 105.516 0.533711 74.3892 0.533711H74.3943Z" fill="white"/>
     <path d="M210.771 0.00509583C169.882 0.00509583 143.766 25.0241 143.766 58.9948V77.6942C143.766 113.508 169.882 138 210.771 138C246.91 138 272.236 119.301 274.874 94.019C275.142 91.3852 273.293 89.544 270.654 89.544H250.078C248.23 89.544 246.648 90.6009 246.119 92.4404C243.479 100.867 231.084 113.508 210.771 113.508C190.457 113.508 171.463 98.7616 171.725 77.6942L171.993 54.2572C172.254 36.6147 190.723 24.5023 210.771 24.5023C228.973 24.5023 246.648 34.7752 248.491 51.6284C248.644 53.5766 247.302 55.3358 245.377 55.7054L186.23 67.1655C183.858 67.694 182.011 69.7994 182.011 72.4299V72.6908C182.011 75.0587 184.383 77.1658 187.812 77.1658H272.758C275.092 77.1658 276.98 75.2761 276.98 72.9516V56.3643C276.98 25.0308 249.806 0.0101099 210.766 0.0101099L210.771 0.00509583Z" fill="white"/>
     <path d="M357.965 0.00483262C324.989 0.00483262 296.5 19.226 296.5 44.5076C296.5 46.6146 298.35 48.1933 300.722 48.1933H322.087C324.198 48.1933 325.779 46.6146 326.048 44.5076C328.158 32.9237 342.14 24.4971 357.175 24.4971C375.111 24.4971 387.25 35.5575 387.25 54.5195V77.4314C387.25 100.867 369.837 112.718 348.204 112.718C331.321 112.718 321.56 106.399 321.56 96.1258C321.56 87.1708 326.309 79.5335 345.827 75.0585L374.052 67.4211C376.954 66.6318 378.012 64.2572 377.483 61.6284C377.222 59.5213 374.848 58.4661 372.732 58.4661H343.455C318.658 58.4661 293.594 74.2641 293.594 97.4369V101.123C293.594 124.826 316.018 137.199 341.605 137.199C357.96 137.199 371.941 130.879 380.646 123.508L393.575 112.446C395.686 110.601 397.797 110.601 399.639 112.446C401.221 114.024 400.691 116.399 399.373 118.238L391.459 130.618C390.139 132.463 391.193 134.831 393.57 134.831H412.564C414.936 134.831 416.785 132.986 416.785 130.618V50.8221C416.785 20.2779 394.89 -0.00018147 357.955 -0.00018147L357.965 0.00483262Z" fill="white"/>
@@ -27,26 +22,8 @@
     <path d="M708.016 3.16809H726.368C728.417 3.16809 730 4.7484 730 6.7936V131.216C730 133.261 728.417 134.842 726.368 134.842H708.016C705.968 134.842 704.383 133.261 704.383 131.216V6.7936C704.383 4.7484 705.968 3.16809 708.016 3.16809Z" fill="#0091FD"/>
   </g>
 
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="60" y="166" fill="#f3f8f5" font-size="72" font-weight="650" letter-spacing="-2.7">Inference SDK</text>
-    <text x="64" y="216" fill="#b2c7bc" font-size="27" font-weight="400" letter-spacing="-0.3">Private inference. Verifiable responses.</text>
-  </g>
-
-  <g fill="none" stroke-linejoin="round">
-    <path d="M806 108H852M806 180H848M806 252H852M1118 108H1150M1122 180H1150M1118 252H1150" stroke="#2b493b"/>
-    <path d="M984 35V61M984 299V325" stroke="#2b493b"/>
-    <rect x="876" y="72" width="216" height="216" rx="34" transform="rotate(12 984 180)" fill="url(#enclosure)" stroke="#365c49"/>
-    <rect x="876" y="72" width="216" height="216" rx="34" transform="rotate(-12 984 180)" fill="url(#enclosure)" stroke="#557b64"/>
-    <rect x="899" y="95" width="170" height="170" rx="24" fill="#111e18" stroke="#9aefd0" stroke-width="1.5"/>
-    <path d="M922 120H939M922 120V137M1046 120H1029M1046 120V137M922 240H939M922 240V223M1046 240H1029M1046 240V223" stroke="#527761"/>
-    <path d="M984 139L1025 162V207L984 230L943 207V162Z" fill="#9aefd0" fill-opacity="0.04" stroke="#9aefd0" stroke-width="1.5"/>
-    <path d="M943 162L984 185L1025 162M984 185V230" stroke="#9aefd0" stroke-width="1.5"/>
-    <path d="M964 150L1005 173V218" stroke="#9aefd0" stroke-opacity="0.35"/>
-    <path d="M1004 150L963 173V218" stroke="#9aefd0" stroke-opacity="0.35"/>
-  </g>
-  <g fill="#9aefd0">
-    <circle cx="806" cy="108" r="2.5"/>
-    <circle cx="806" cy="252" r="2.5"/>
-    <circle cx="1150" cy="180" r="2.5"/>
+  <g text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="600" y="194" fill="#EEEEEB" font-size="76" font-weight="650" letter-spacing="-2.7">Inference SDK</text>
+    <text x="600" y="246" fill="#A7A7A7" font-size="27" font-weight="400" letter-spacing="-0.3">Private inference. Verifiable responses.</text>
   </g>
 </svg>
